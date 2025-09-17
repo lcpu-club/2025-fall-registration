@@ -1,0 +1,11 @@
+[about]
+name = "djdjz"
+avatar = "djdjz.jpg"
+hobbies = ["🎨 Desgin", "💻 Programming", "🏸 Badminton"]
+skills = ["C#", "Rust", "TypeScript", "Vue"]
+
+[social]
+github = "djdjz7"
+website = "https://djdjz7.top"
+
+
