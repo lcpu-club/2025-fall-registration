@@ -1,0 +1,11 @@
+[about]
+name = "吃一切猫"
+avatar = "hzh.png"
+hobbies = ["🐱 Cat", "🐧 Linux", "🥘 Cooking"]
+skills = ["Linux", "Golang", "Rust", "TypeScript"]
+
+[social]
+github = "holgerhuo"
+website = "https://holger.one"
+
+
