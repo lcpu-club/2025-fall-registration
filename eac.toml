@@ -1,0 +1,9 @@
+[about]
+name = "黄熙鸣"
+avatar = "hxm.jpeg"
+hobbies = ["🎨 Desgin", "💻 Programming", "🏸 Badminton"]
+skills = ["C#", "Rust", "TypeScript", "Vue"]
+
+[social]
+github = "djdjz7"
+website = "https://djdjz7.top"
