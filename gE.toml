@@ -1,0 +1,11 @@
+[about]
+name = "gE"
+avatar = "ico.png"
+hobbies = ["Music", "Programming", "Swimming"]
+skills = ["C++", "Git"]
+
+[social]
+github = "gE0650"
+website = "https://gE0650.github.io"
+
+
