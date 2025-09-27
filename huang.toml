@@ -1,0 +1,9 @@
+[about]
+name = "huang"
+avatar = "huang.jpg"
+hobbies = ["🎨 Desgin", "💻 Programming", "🏸 Badminton"]
+skills = ["C++", "Python", "C#"]
+
+[social]
+github = "huang-33"
+# website = "https://djdjz7.top"
