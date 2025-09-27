@@ -1,0 +1,9 @@
+[about]
+name = "geming"
+avatar = "geming.jpeg"
+hobbies = [ "💻 Programming", "🏸 Badminton"]
+skills = ["C++", "Python", "Java", "Js"]
+
+[social]
+github = "ly-geming"
+website = "https://ly-geming.github.io/p"
