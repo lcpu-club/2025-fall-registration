@@ -1,0 +1,9 @@
+[about]
+name = "positive1"
+avatar = "positive1.png"
+hobbies = ["hobbies"]
+skills = ["skills"]
+
+[social]
+github = "positivefirst"
+website = "https://positivefirst.github.io"
