@@ -1,0 +1,9 @@
+[about]
+name = "LuBryant"
+avatar = "LuBryant.jpg"
+hobbies = ["PhysiCS", "💻 Programming", "Snowboarding"]
+skills = ["Python", "Mathematica", "C"]
+
+[social]
+github = "LuBryant"
+website = "https://github.com/LuBryant"
