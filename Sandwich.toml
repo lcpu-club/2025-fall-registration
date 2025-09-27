@@ -1,0 +1,9 @@
+[about]
+name = "Sandwich
+avatar = "Sandwich.png"
+hobbies = ["🎨 Desgin", "💻 Programming", "🏸 Badminton"]
+skills = ["C#", "Rust", "TypeScript", "Vue", "verilog"]
+
+[social]
+github = "Sandwich1527"
+website = "null"
