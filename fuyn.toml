@@ -1,0 +1,8 @@
+[about]
+name = "fuyn"
+avatar = "fuyn.png"
+hobbies = ["💻 Programming", "🎸 Guitar", "🎮 Gaming", "💤 Sleeping"]
+skills = ["Python", "JavaScript", "Video Clipping"]
+
+[social]
+github = "FuYn666"
