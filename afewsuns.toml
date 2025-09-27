@@ -1,0 +1,8 @@
+[about]
+name = "AFewSuns"
+avatar = "afewsuns.jpg"
+hobbies = ["🎮 Game", "💻 Programming", "🥏 Frisbee"]
+skills = ["C#", "Python", "Haskell"]
+
+[social]
+github = "AFewSuns"
