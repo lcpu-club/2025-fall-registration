@@ -1,0 +1,9 @@
+[about]
+name = "NewSunH"
+avatar = "NewSunH.png"
+hobbies = ["🐧 Linux", "💻 Python", "💻 NixOS", "🎮️ Game", "🎨 Design"]
+skills = ["Linux", "海报", "Nix Flakes", "Medical Science"]
+
+[social]
+github = "NewSunH"
+wechat = "NewSunH"
