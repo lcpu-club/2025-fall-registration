@@ -1,0 +1,10 @@
+[about]
+name = "StudyingFather"
+avatar = "StudyingFather.png"
+hobbies = ["🐧 Linux", "🎮️ Game", "✈️ Travel", "🚋 Transportation"]
+skills = ["C++", "Rust", "Coq"]
+
+[social]
+github = "StudyingFather"
+website = "https://studyingfather.com"
+gpg = "3628110289CFC897"
