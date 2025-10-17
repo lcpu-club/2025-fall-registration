@@ -1,3 +1,9 @@
+> [!TIP]
+>  注册活动已结束，感谢大家参与！以下是本次打卡记录：
+
+![Registration Details](./final.png)
+
+
 # Git 打卡教程
 
 ## Fork 主仓库
